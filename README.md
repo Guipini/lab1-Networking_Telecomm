@@ -1,8 +1,8 @@
 # CPAN226 Lab 1: HTTP Protocol Investigation
 
-**Student:** Gusta
+**Student:** Gustavo
 **Course:** CPAN226 - Networking & Telecommunications
-**Date:** January 30, 2026
+**Date:** January 29, 2026
 
 ---
 
